@@ -1,2 +1,2 @@
 # website
-My first personal website
+Khoi's very first personal website
